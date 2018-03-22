@@ -1,0 +1,7 @@
+C:\Users\Rinorn\source\repos\CompressApp\CompressApp\bin\Debug\CompressApp.exe.config
+C:\Users\Rinorn\source\repos\CompressApp\CompressApp\bin\Debug\CompressApp.exe
+C:\Users\Rinorn\source\repos\CompressApp\CompressApp\bin\Debug\CompressApp.pdb
+C:\Users\Rinorn\source\repos\CompressApp\CompressApp\obj\Debug\CompressApp.csprojResolveAssemblyReference.cache
+C:\Users\Rinorn\source\repos\CompressApp\CompressApp\obj\Debug\CompressApp.csproj.CoreCompileInputs.cache
+C:\Users\Rinorn\source\repos\CompressApp\CompressApp\obj\Debug\CompressApp.exe
+C:\Users\Rinorn\source\repos\CompressApp\CompressApp\obj\Debug\CompressApp.pdb

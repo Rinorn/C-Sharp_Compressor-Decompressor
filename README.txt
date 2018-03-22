@@ -1,0 +1,2 @@
+If only the filename is entered, the file you create is located in the debug folder located in compressApp/bin.
+i have left a pdf you can use for testing. i have tested the compression and decompression for jpg and pdf files. 
