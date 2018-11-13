@@ -23,10 +23,8 @@ namespace CompressApp
             string newFileName = Console.ReadLine();
             Stopwatch sw = new Stopwatch();
             
-
             if (modeSelect.Equals("c"))
-            {
-                
+            {           
                 sw.Start();
                 Compress(fileName, newFileName);
             }
@@ -38,7 +36,6 @@ namespace CompressApp
             
             sw.Stop();
             long timer = sw.ElapsedMilliseconds;
-
             Console.WriteLine("Runtime: " + timer);
             Console.WriteLine("Press any key to close the window");
             Console.Read();
@@ -58,8 +55,7 @@ namespace CompressApp
                     catch (Exception e)
                     {
                         Console.WriteLine(e.Message);
-                    }
-                    
+                    }                    
                 }
             }
         }
@@ -79,13 +75,10 @@ namespace CompressApp
                         catch (Exception e)
                         {
                             Console.WriteLine(e.Message);
-                        }
-                        
-
+                        }                       
                     }
                 }
             }
-        }
-        
+        }       
     }
 }
