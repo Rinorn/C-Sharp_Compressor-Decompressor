@@ -10,8 +10,7 @@ using System.Threading.Tasks;
 namespace CompressApp
 {
     class Program
-    {
-        
+    {    
         static void Main(string[] args)
         {
             Console.Write("Type in file path: ");
